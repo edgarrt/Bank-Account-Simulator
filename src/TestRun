@@ -1,0 +1,84 @@
+Part 1
+
+Saver1:
+For the first month, with a 4% interest rate and principal amount of $2000.0
+The new total is: $2006.6666666666667
+After modifying the interest rate to %5.0
+For the next month and a new balance of $2006.6666666666667
+The new total is $2015.0277777777778
+
+Saver2:
+For the first month, with a 4% interest rate and principal amount of $3000.0
+The new total is: $3010.0
+After modifying the interest rate to %5.0
+For the next month and a new balance of $3010.0
+The new total is $3022.5416666666665
+
+Part 2
+
+SpecialSaver1:
+For the first month, with a 4% interest rate and principal amount of $2000.0
+The new total is: $2006.6666666666667
+Thank you for Depositing Money.
+Before depositing money you had a balance of $2006.6666666666667
+You Deposited a total amount of $4000.0
+After modifying the interest rate to %4.0
+For the next month and a new balance of $6006.666666666667
+The new total is $6026.688888888889
+
+You Withdrew money. 
+After withdrawing $2000.0
+The new balance is: $4026.688888888889
+
+Thank you for Depositing Money.
+Before depositing money you had a balance of $4026.688888888889
+You Deposited a total amount of $5000.0
+After modifying the interest rate to %4.0
+For the next month and a new balance of $9026.68888888889
+The new total is $9056.777851851853
+
+You Withdrew money. 
+After withdrawing $9000.0
+The new balance is: $56.777851851853484
+
+Thank you for Depositing Money.
+Before depositing money you had a balance of $56.777851851853484
+You Deposited a total amount of $5000.0
+After modifying the interest rate to %4.0
+For the next month and a new balance of $5056.7778518518535
+The new total is $5073.633778024693
+
+
+
+SpecialSaver2:
+For the first month, with a 4% interest rate and principal amount of $3000.0
+The new total is: $3010.0
+Thank you for Depositing Money.
+Before depositing money you had a balance of $3010.0
+You Deposited a total amount of $7000.0
+After modifying the interest rate to %10.0
+For the next month and a new balance of $10010.0
+The new total is $10093.416666666666
+
+You Withdrew money. 
+After withdrawing $2000.0
+The new balance is: $8093.416666666666
+
+Thank you for Depositing Money.
+Before depositing money you had a balance of $8093.416666666666
+You Deposited a total amount of $5000.0
+After modifying the interest rate to %10.0
+For the next month and a new balance of $13093.416666666666
+The new total is $13202.528472222222
+
+You Withdrew money. 
+After withdrawing $9000.0
+The new balance is: $4202.528472222222
+
+Thank you for Depositing Money.
+Before depositing money you had a balance of $4202.528472222222
+You Deposited a total amount of $5000.0
+After modifying the interest rate to %4.0
+For the next month and a new balance of $9202.528472222222
+The new total is $9233.203567129629
+
